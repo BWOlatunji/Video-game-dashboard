@@ -1,1 +1,2 @@
-# Video-game-dashboard
+# Video Game Dashboard
+## Project Overview
